@@ -1,5 +1,9 @@
 # finance-tools
 
+- https://angelcalc.com/
+- https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+- https://www.bondsupermart.com/bsm/bond-factsheet/US912810UK24
+
 
 <details>
 <summary>DIVIDENDS</summary>
